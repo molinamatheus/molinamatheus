@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @molinamatheus
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning pyrhon, sql and kotlin
+- 🌱 I’m currently learning python, sql, kotlin and swift
 - 💞️ I’m looking to collaborate in a technology company
 - 📫 matwaqq11@gmail.com | (18) 996693647
 
