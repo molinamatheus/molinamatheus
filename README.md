@@ -6,7 +6,7 @@
 ![Slide1](https://user-images.githubusercontent.com/99224273/161056942-3b3d309c-424f-4c1b-9fe3-8b0fe5a859f0.JPG)
 
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Matheus+Molina;+Welcome+to+My+Profile!;My+third+year+of+experience+in+the+technology+field;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Matheus+Molina+;+Welcome+to+My+Profile!+;+My+third+year+of+experience+in+the+technology+field+;Always+learning+new+things+;+Machine+learning+enthusiast+)](https://git.io/typing-svg)
 
 
 ## 🎖️My achievements:🎖️
