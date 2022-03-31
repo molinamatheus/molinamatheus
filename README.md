@@ -5,8 +5,6 @@
 
 ![Slide2](https://user-images.githubusercontent.com/99224273/160948648-1a0985e5-4258-45bb-aad9-96ccb9868eab.JPG)
 
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Matheus+Molina;+Welcome+to+My+Profile!;My+third+year+of+experience+in+the+technology+field;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
